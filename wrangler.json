@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "storage",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b623c7dd-754b-4d09-ba15-f9a8146dfe32",
+      "database_name": "storage_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
